@@ -1,4 +1,9 @@
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjooyeon9170@gmail.com)](mailto:kimjooyeon9170@gmail.com) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_vHsFVU6I-cc8hno-JeNSg)](https://www.youtube.com/channel/UC_vHsFVU6I-cc8hno-JeNSg)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JOO?YEON'S GITHUB%20render&fontSize=90)
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjooyeon9170@gmail.com)](mailto:kimjooyeon9170@gmail.com) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_vHsFVU6I-cc8hno-JeNSg)](https://www.youtube.com/channel/UC_vHsFVU6I-cc8hno-JeNSg)
+ 
+ 
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIMJOOYEON97)](https://github.com/anuraghazra/github-readme-stats)
 <!--
