@@ -19,7 +19,8 @@ Hi I'm Junior Devloper JOOYEON KIM
 <img src="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
   &nbsp     
   
-<h5>Connect:</h5>  
+<p align="center">
+  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjooyeon9170@gmail.com)](mailto:kimjooyeon9170@gmail.com) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_vHsFVU6I-cc8hno-JeNSg)](https://www.youtube.com/channel/UC_vHsFVU6I-cc8hno-JeNSg)
  
  
